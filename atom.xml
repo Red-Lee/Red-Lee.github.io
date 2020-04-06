@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://red-lee.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-04-06T07:32:01.845Z</updated>
+    <updated>2020-04-06T15:18:32.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://red-lee.github.io/"/>
     <link rel="self" href="https://red-lee.github.io//atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://red-lee.github.io//images/avatar.png</logo>
     <icon>https://red-lee.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[你好]]></title>
+        <id>https://red-lee.github.io//post/ni-hao</id>
+        <link href="https://red-lee.github.io//post/ni-hao">
+        </link>
+        <updated>2020-04-06T15:14:20.000Z</updated>
+        <content type="html"><![CDATA[<p>我的博客终于建好了，但我却突然不知道该说些什么。原本强烈的表达欲望也在三天的互联网摸索中被消耗掉了。<br>
+<strong>哎！真是令人无语</strong>。</p>
+]]></content>
+    </entry>
 </feed>
