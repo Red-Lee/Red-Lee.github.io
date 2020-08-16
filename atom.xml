@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://red-lee.github.io/</id>
     <title>My blog</title>
-    <updated>2020-08-16T16:33:01.374Z</updated>
+    <updated>2020-08-16T16:40:50.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://red-lee.github.io/"/>
     <link rel="self" href="https://red-lee.github.io//atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://red-lee.github.io//images/avatar.png</logo>
     <icon>https://red-lee.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, My blog</rights>
-    <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://red-lee.github.io//post/1</id>
-        <link href="https://red-lee.github.io//post/1">
-        </link>
-        <updated>2020-08-16T16:29:11.000Z</updated>
-        <content type="html"><![CDATA[<p>李红，希望你可以快乐一些。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[杂七杂八]]></title>
         <id>https://red-lee.github.io//post/za-qi-za-ba</id>
@@ -31,7 +22,10 @@
 <!-- more -->
 <p>2020.4.28 0:40</p>
 <ul>
-<li>我这个人有个特别讨厌的一点，我不太喜欢感情的流露，再情真意切再感人坦诚的话语，我的第一反应永远都是逃离。并不是意味着我无法产生共感，只是我不太喜欢表达不太擅长袒露内心，这就是导致我会麻木应对他人的表达时的原因：展现一个内心深处的自己会让我感到窒息，我永远都不会想要被了解，被人看透的感觉很糟糕。</li>
+<li>我这个人有个特别讨厌的一点，我不太喜欢感情的流露，再情真意切再感人坦诚的话语，我的第一反应永远都是逃离。并不是意味着我无法产生共感，只是我不太喜欢表达不太擅长袒露内心，这就是导致我会麻木应对他人的表达时的原因：展现一个内心深处的自己会让我感到窒息，我永远都不会想要被了解，被人看透的感觉很糟糕。<br>
+2020.6.17 0:17</li>
+<li>李红，我希望你快乐一些。</li>
+<li>我在看《v字仇杀队》</li>
 </ul>
 ]]></content>
     </entry>
